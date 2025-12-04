@@ -1,0 +1,12 @@
+Intro
+=====
+1 The Importance & Need of Databricks
+2 Databricks Free Edition
+3 Exploring Azure Databricks Interface
+4 Hands-on with Databricks Notebooks
+5 Databricks Architecture at a High-Level
+6 Need for Multiple Databricks Workspaces
+7 Managing Table Data and Metadata in Databricks Using Unity Catalog
+8 How to Use Azure Storage with Databricks Unity Catalog
+9 Creating External Locations in Databricks Using SQL
+10 Managed vs External Tables in Databricks
